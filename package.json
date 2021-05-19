@@ -21,7 +21,12 @@
     "@angular/router": "~9.1.11",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
-    "zone.js": "~0.10.2"
+    "zone.js": "~0.10.2",
+    "devextreme-quill": "0.10.3",
+    "devextreme-angular": "20.2.6",
+    "devextreme": "20.2.7",
+    "devexpress-gantt": "2.0.29",
+    "devexpress-diagram": "2.0.23"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.901.8",
